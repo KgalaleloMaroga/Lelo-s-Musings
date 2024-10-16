@@ -25,7 +25,10 @@ header
     font-size: 2rem; /* Header font size */
     margin-bottom: 20px; /* Space below the header */
 }
-
+a {
+    text-decoration: none; /* Removes the underline */
+    color: white;
+}
 
 #buttonContainer 
 {
